@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D20FAB89-D97F-4C4C-A6AC-86F4FFA5F020}|MarineraApp\\MarineraApp.csproj|e:\\antiguos desarrollos e\\developerrepos2023\\marineraapp\\marineraapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20FAB89-D97F-4C4C-A6AC-86F4FFA5F020}|MarineraApp\\MarineraApp.csproj|solutionrelative:marineraapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D47926-B92F-478B-A19B-C33A4AFE0EA1}|MarineraWebApi\\MarineraWebApi.csproj|e:\\antiguos desarrollos e\\developerrepos2023\\marineraapp\\marinerawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D47926-B92F-478B-A19B-C33A4AFE0EA1}|MarineraWebApi\\MarineraWebApi.csproj|solutionrelative:marinerawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20FAB89-D97F-4C4C-A6AC-86F4FFA5F020}|MarineraApp\\MarineraApp.csproj|e:\\antiguos desarrollos e\\developerrepos2023\\marineraapp\\marineraapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20FAB89-D97F-4C4C-A6AC-86F4FFA5F020}|MarineraApp\\MarineraApp.csproj|solutionrelative:marineraapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\MarineraWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MarineraWebApi\\Program.cs",
+              "ToolTip": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\MarineraWebApi\\Program.cs",
+              "RelativeToolTip": "MarineraWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:58:04.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\MarineraApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MarineraApp\\MauiProgram.cs",
+              "ToolTip": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\MarineraApp\\MauiProgram.cs",
+              "RelativeToolTip": "MarineraApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:30:54.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\MarineraApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MarineraApp\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\MarineraApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "MarineraApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:35:00.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

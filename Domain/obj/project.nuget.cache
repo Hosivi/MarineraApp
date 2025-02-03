@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WckEMldyWs8=",
+  "success": true,
+  "projectFilePath": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "E:\\.nuget\\packages\\ardalis.guardclauses\\4.5.0\\ardalis.guardclauses.4.5.0.nupkg.sha512",
+    "E:\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "E:\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "E:\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

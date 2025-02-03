@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:MarineraApp.Templates.Controls"
+             x:Class="MarineraApp.Pages.Login.WelcomePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand">
+            <Image Source="welcome_image.png"
+                   WidthRequest="311"
+                   HeightRequest="336" />
+            <controls:PrimaryBtn Text="Iniciar Sesión"
+                                 Clicked="OnClickButton" />
+            <controls:SecondaryBtn Text="Registrarse"
+                                   Clicked="OnClickButton" />
+            <Label Text="Continuar como invitado"
+                   HorizontalTextAlignment="Center"
+                   TextColor="{StaticResource Primary}">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnClickButton"
+                                          NumberOfTapsRequired="1" />
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

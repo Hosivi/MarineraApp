@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XWDKDZAH6oenrTXgVJtFm03WoU1bRdMBTW8zrYvKvOU=",
+  "Source": "MarineraWebApi",
+  "BasePath": "_content/MarineraWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarineraApp.MainPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <!-- Image -->
+            <Image Source="Bienvenido.png" HorizontalOptions="Center" />
+
+            <!-- Buttons -->
+            <Button Text="Iniciar sesión" 
+                    BackgroundColor="Black" 
+                    TextColor="White"
+                    CornerRadius="20"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    VerticalOptions="EndAndExpand" />
+
+            <Button Text="Register" 
+                    BackgroundColor="White" 
+                    TextColor="Black"
+                    BorderColor="Black"
+                    BorderWidth="1"
+                    CornerRadius="20"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    VerticalOptions="EndAndExpand" />
+
+            <Label Text="Continuar como invitado" 
+                   TextColor="Teal"
+                   HorizontalOptions="Center"
+                   VerticalOptions="EndAndExpand"
+                   Margin="0,20,0,0"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

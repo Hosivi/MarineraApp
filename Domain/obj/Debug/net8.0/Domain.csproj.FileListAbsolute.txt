@@ -1,0 +1,36 @@
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\Domain.dll
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\Domain.pdb
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedEntities.dll
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedKernel.dll
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedEntities.pdb
+E:\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedKernel.pdb
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.dll
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.pdb
+E:\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\Domain.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedEntities.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedKernel.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedEntities.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\bin\Debug\net8.0\SharedKernel.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Domain\obj\Debug\net8.0\ref\Domain.dll

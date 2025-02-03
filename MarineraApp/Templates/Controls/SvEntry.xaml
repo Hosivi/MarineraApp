@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:MarineraApp.Templates.Controls"
+             x:Class="MarineraApp.Templates.Controls.SvEntry"
+             x:Name="this">
+    <Grid
+        Margin="0,7.5,0,7.5">
+        <Border
+            BackgroundColor="#f7f8f9"
+            Stroke="{StaticResource DarkGray}"
+            StrokeShape="RoundRectangle 5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            >
+            <controls:BorderlessEntry
+                Placeholder="{Binding Placeholder, Source={x:Reference this}}"
+                IsPassword="{Binding IsPassword, Source={x:Reference this }}"
+                Text="{Binding EntryText, Source={x:Reference this}}"
+                PlaceholderColor="#a5a5a5"
+                TextColor="#000000"
+                FontSize="16"
+                FontFamily="Roboto"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Center"
+                WidthRequest="331"
+                HeightRequest="56"
+                Margin="7.5, 0,0,0">
+                
+            </controls:BorderlessEntry>
+        </Border>
+        
+
+    </Grid>
+</ContentView>

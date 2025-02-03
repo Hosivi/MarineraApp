@@ -1,0 +1,16 @@
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\bin\Release\net8.0\SharedEntities.deps.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\bin\Release\net8.0\SharedEntities.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\bin\Release\net8.0\SharedEntities.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\bin\Release\net8.0\SharedKernel.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\bin\Release\net8.0\SharedKernel.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.csproj.AssemblyReference.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.AssemblyInfoInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.AssemblyInfo.cs
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.csproj.CoreCompileInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.sourcelink.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEn.48A88E96.Up2Date
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\refint\SharedEntities.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\SharedEntities.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedEntities\obj\Release\net8.0\ref\SharedEntities.dll

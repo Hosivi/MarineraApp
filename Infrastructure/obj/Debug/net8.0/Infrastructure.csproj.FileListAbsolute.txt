@@ -1,0 +1,44 @@
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Domain.dll
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedEntities.dll
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedKernel.dll
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Domain.pdb
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedKernel.pdb
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedEntities.pdb
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+E:\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedEntities.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedKernel.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedKernel.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\bin\Debug\net8.0\SharedEntities.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

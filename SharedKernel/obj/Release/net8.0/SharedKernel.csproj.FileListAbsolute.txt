@@ -1,0 +1,13 @@
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\bin\Release\net8.0\SharedKernel.deps.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\bin\Release\net8.0\SharedKernel.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\bin\Release\net8.0\SharedKernel.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.csproj.AssemblyReference.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.AssemblyInfo.cs
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.sourcelink.json
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\refint\SharedKernel.dll
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\SharedKernel.pdb
+C:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\SharedKernel\obj\Release\net8.0\ref\SharedKernel.dll

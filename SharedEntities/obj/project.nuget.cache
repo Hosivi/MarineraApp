@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ujnYCZnJl8=",
+  "success": true,
+  "projectFilePath": "E:\\Antiguos Desarrollos E\\DeveloperRepos2023\\MarineraApp\\SharedEntities\\SharedEntities.csproj",
+  "expectedPackageFiles": [
+    "E:\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

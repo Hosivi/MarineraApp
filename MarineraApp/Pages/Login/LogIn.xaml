@@ -1,0 +1,49 @@
+﻿<?xml
+    version="1.0"
+    encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:MarineraApp.Templates.Controls"
+             x:Class="MarineraApp.Pages.Login.LogIn"
+             x:Name="this">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+            <Label Text="Bienvenido nuevamente!" Margin="22, 42, 0 ,18"
+                   FontSize="48" HorizontalTextAlignment="Start"
+                   FontFamily="Urbanist-Bold" />
+            <controls:SvEntry Placeholder="Correo" EntryText="{Binding Email}" />
+            <controls:SvEntry Placeholder="Contraseña" IsPassword="True"
+                              EntryText="{Binding Password}" />
+            <Label Text="Olvidé mi contraseña"
+                   HorizontalTextAlignment="End"
+                   Margin="0, 0,30,15" />
+            <controls:PrimaryBtn Text="Iniciar Sesión"
+                                 Command="{Binding LoginCommand}" 
+                                 />
+            <Label Text="O inicia sesión con:" HorizontalTextAlignment="Center"
+                   Margin="0, 35,30,30" />
+            <Grid HorizontalOptions="Center" Margin="0,30,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <controls:SecondaryBtn Grid.Column="0" WidthRequest="105"
+                                       Margin="4,0,4,0"
+                                       ImageSource="google_96.png"
+                                       Command="{Binding LoginWithGoogleCommand}"
+                                       CommandParameter="google" />
+                <controls:SecondaryBtn Grid.Column="1" WidthRequest="105"
+                                       Margin="4,0,4,0"
+                                       ImageSource="facebook_f_100.png"
+                                       DisableLayout="True" />
+                <controls:SecondaryBtn Grid.Column="2" WidthRequest="105"
+                                       Margin="4,0,4,0"
+                                       ImageSource="mac_100.png"
+                                       DisableLayout="True" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

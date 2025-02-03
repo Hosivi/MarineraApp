@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MarineraApp
+build_property.ProjectDir = E:\Antiguos Desarrollos E\DeveloperRepos2023\MarineraApp\MarineraApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Pages/Dashboard/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Pages.Dashboard.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Dashboard\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Dashboard\Home.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Pages/Login/LogIn.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Pages.Login.LogIn.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login\LogIn.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login\LogIn.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Pages/Login/SingIn.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Pages.Login.SingIn.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login\SingIn.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login\SingIn.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Pages/Login/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Pages.Login.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login\WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login\WelcomePage.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/Antiguos Desarrollos E/DeveloperRepos2023/MarineraApp/MarineraApp/Templates/Controls/SvEntry.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarineraApp.Templates.Controls.SvEntry.xaml
+build_metadata.AdditionalFiles.TargetPath = Templates\Controls\SvEntry.xaml
+build_metadata.AdditionalFiles.RelativePath = Templates\Controls\SvEntry.xaml
